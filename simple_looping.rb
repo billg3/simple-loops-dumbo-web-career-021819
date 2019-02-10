@@ -54,7 +54,7 @@ end
 end
 
 def for_iterator(number_of_times)
-  for counter in 1..40 do
+  for number_of_times in 1..7 do
   puts "The current number is #{counter}."
 end
 
